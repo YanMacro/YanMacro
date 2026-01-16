@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Yan Hongguang (YanMacro) 👋
 
-<!--
-**YanMacro/YanMacro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science enthusiast and a lifelong learner. Currently, I'm focusing on connecting the dots between Mathematics, Engineering (CAE), and Code.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on**: Learning the fundamentals of Computer Science and CAE simulation.
+- 🌱 **I’m currently learning**: 
+  - **C++** & **Python** (Building my core skills)
+  - **Git** (For version control)
+  - **Tcl** (Scripting for HyperMesh)
+  - **Fourier Neural Operator (FNO)** (Exploring AI in Physics)
+- 📐 **Interests**: Mathematics, Computer-Aided Engineering, and Algorithms.
+- ⚡ **Fun fact**: I'm also exploring how to sing well! 🎤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+`C++` `Python` `Git` `Visual Studio Code` `HyperMesh` `Tcl`
+
+---
+
+![YanMacro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMacro&show_icons=true&theme=minimal)
