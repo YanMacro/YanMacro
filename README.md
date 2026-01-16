@@ -18,4 +18,4 @@ I am a computer science enthusiast and a lifelong learner. Currently, I'm focusi
 
 ---
 
-![YanMacro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanMacro&show_icons=true&theme=minimal)
+![YanMacro's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YanMacro&show_icons=true&theme=minimal)
